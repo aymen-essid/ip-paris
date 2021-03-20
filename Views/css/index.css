@@ -1,0 +1,17 @@
+
+.container{
+    margin-top: 50px;
+}
+
+#view-result{
+    margin-top: 50px;
+}
+
+.spinner-border{
+    float: left;
+    margin-left: 45%;
+}
+
+.hide{
+    display: none !important;
+}
